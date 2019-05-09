@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 40px;;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.friends {
+  margin-top: 30px;
+}
+
+.new-friend {
+  
+  padding: 5px;
+  border: 1px solid green;
+  margin: 100px auto 0;
+  width: 25%;
+}
+
+
